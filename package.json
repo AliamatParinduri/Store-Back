@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Store Of Product",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Store Of Product",
+    "Store",
+    "VueJS",
+    "NodeJS",
+    "ExpressJS",
+    "MongoDB"
+  ],
+  "author": "Aliamat Parinduri",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors-anywhere": "^0.4.4",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5",
+    "nodemon": "^2.0.15"
+  }
+}
